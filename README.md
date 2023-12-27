@@ -2,6 +2,8 @@
 
 Meu nome é Tomás Hugo Almeida. Sou desenvolvedor fullstack e empreendedor, atendo clientes nos setores de _utilities_ utilizando as seguintes tecnologias:
 
+> ## Features do Git
+
 - NODE.js
 - TypeScript
 - Python
@@ -11,6 +13,8 @@ Meu nome é Tomás Hugo Almeida. Sou desenvolvedor fullstack e empreendedor, ate
 - Osrm
 - Kotlin
 - Jetpack Compose
+
+> ## Certificações
 
 Sou 3x certificado na AWS:
 
